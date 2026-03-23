@@ -1,0 +1,5 @@
+.env
+testAPIKEY
+TestOPENAI_API
+__pycache__/
+*.db
